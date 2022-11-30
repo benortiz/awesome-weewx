@@ -14,6 +14,8 @@
   and feels like wfrog, without dependencies.
 - [weewx-belchertown](https://github.com/poblabs/weewx-belchertown): Advanced
   skin with optional real-time elements.
+- [weewx-json](https://github.com/teeks99/weewx-json): Skin that outputs JSON
+  to be consumed from another client; smartphone app, web application...
 
 ## Extensions
 
@@ -22,6 +24,8 @@
 
 ## Drivers
 
+- [weewx-interceptor](https://github.com/matthewwall/weewx-interceptor): Fetches
+  weather data from a variety of "internet bridges".
 - [weewx-rtldavis](https://github.com/lheijst/weewx-rtldavis): Capture Davis
   weather station data directly through SDR.
 
